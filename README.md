@@ -93,6 +93,7 @@ The following **additional** features are implemented:
 - [x] List anything else that you can get done to improve the app functionality!
 - [x] Add user's tweets to profile page
 - [x] stop composition of new tweet when over character limit
+
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 1. What does it mean that POST and GET are depreciated? 
